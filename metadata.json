@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Leftover Chef",
+  "description": "A mobile-first recipe generator for your leftovers using AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
